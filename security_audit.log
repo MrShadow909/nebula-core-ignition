@@ -1,0 +1,34 @@
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 19 21:12:54 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 19 21:12:55 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:12:55 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:13:37 DESKTOP-HKAOTBA unknown: WSL (138) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 19 21:25:11 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 19 21:25:12 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:25:12 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:25:54 DESKTOP-HKAOTBA unknown: WSL (139) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 19 21:36:19 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 19 21:36:19 DESKTOP-HKAOTBA unknown: WSL (139) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jun 19 21:36:20 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:36:20 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 19 21:45:19 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 19 21:45:19 DESKTOP-HKAOTBA unknown: WSL (139) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jun 19 21:45:20 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 19 21:45:20 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
