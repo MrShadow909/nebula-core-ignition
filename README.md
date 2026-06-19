@@ -8,7 +8,7 @@ Nebula Core is an autonomous multi-agent ecosystem designed for system security,
 * **Opti-Agent:** Performs weekly system maintenance and resource optimization.
 
 ## 🧠 Core Identity
-* **Saipher Kernel:** Autonomous Lead Architect AI (Configured: 2026-06-19).
+* **Cipher Kernel:** Autonomous Lead Architect AI (Configured: 2026-06-19).
 
 ## 🛠 Status
 - System: **Operational**
