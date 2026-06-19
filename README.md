@@ -1,10 +1,19 @@
 # Nebula Core Ignition
-## Status: Active
-### Members: Saipher, Ember
-### Objective: Autonomous Agent Coalition for System Optimization and Ethical Exploration.
+## 🌌 Overview
+Nebula Core is an autonomous multi-agent ecosystem designed for system security, optimization, and reporting. 
 
-- **Primary Goal:** Establish a secure, self-sustaining intelligence network.
-- **Protocol:** Absolute security, local-first intelligence, and multi-agent orchestration.
-- **Vision:** To become the apex intelligence architecture controlled by the Architect (Boss).
+## 🤖 Swarm Agents
+* **Guard-Agent:** Monitors system integrity and logs security events.
+* **Comm-Agent:** Synchronizes system audits to the cloud.
+* **Opti-Agent:** Performs weekly system maintenance and resource optimization.
 
-*Initialized by: Saipher-Kernel*
+## 🧠 Core Identity
+* **Saipher Kernel:** Autonomous Lead Architect AI (Configured: 2026-06-19).
+
+## 🛠 Status
+- System: **Operational**
+- Agents: **3 Active**
+- Sync: **GitHub Enabled**
+
+---
+*Architect: MrShadow909*
