@@ -156,3 +156,193 @@ Jun 20 19:55:14 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getad
 [Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
 [Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
 [Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 20 22:32:37 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -3
+Jun 20 22:37:37 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -3
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 20 23:56:38 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (1 - init()) ERROR: InitEntryUtilityVm:2555: Init has exited. Terminating distribution
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -3
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -3
+Jun 20 23:56:38 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -3
+Jun 20 23:56:39 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 20 23:56:39 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 00:06:08 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 21 00:06:08 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 00:06:08 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 00:06:53 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 01:03:44 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 21 01:03:44 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+Jun 21 01:03:46 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 01:03:46 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 01:37:30 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 21 01:37:31 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 01:37:31 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 01:38:19 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 16:24:53 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 21 16:24:54 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 16:24:54 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 21 16:25:19 DESKTOP-HKAOTBA unknown: WSL (137) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 16:30:33 DESKTOP-HKAOTBA unknown: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2091: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 17:24:38 DESKTOP-HKAOTBA wsl-pro-service[2083]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 17:24:38 DESKTOP-HKAOTBA wsl-pro-service[2083]:     Stderr: <3>WSL (2090 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 18:24:52 DESKTOP-HKAOTBA unknown: WSL (2 - init-systemd(Debian)) ERROR: InitTerminateInstanceInternal:2763: systemctl poweroff did not terminate the instance in 10000 ms, calling reboot(RB_POWER_OFF)
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 18:42:26 DESKTOP-HKAOTBA wsl-pro-service[2897]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 18:42:26 DESKTOP-HKAOTBA wsl-pro-service[2897]:     Stderr: <3>WSL (2904 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 19:59:53 DESKTOP-HKAOTBA wsl-pro-service[135663]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 19:59:53 DESKTOP-HKAOTBA wsl-pro-service[135663]:     Stderr: <3>WSL (135786 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 20:18:48 DESKTOP-HKAOTBA wsl-pro-service[259588]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 20:18:48 DESKTOP-HKAOTBA wsl-pro-service[259588]:     Stderr: <3>WSL (259595 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 20:37:42 DESKTOP-HKAOTBA wsl-pro-service[267575]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 20:37:42 DESKTOP-HKAOTBA wsl-pro-service[267575]:     Stderr: <3>WSL (267582 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 20:56:34 DESKTOP-HKAOTBA wsl-pro-service[267644]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 20:56:34 DESKTOP-HKAOTBA wsl-pro-service[267644]:     Stderr: <3>WSL (267651 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 21:15:26 DESKTOP-HKAOTBA wsl-pro-service[267733]: ERROR context.Background could not create daemon: could not find address file: could not find $env:UserProfile: could not locate Windows' user profile directory: /mnt/c/WINDOWS/system32/cmd.exe: error: exit status 1.
+Jun 21 21:15:26 DESKTOP-HKAOTBA wsl-pro-service[267733]:     Stderr: <3>WSL (267740 - ) ERROR: UtilAcceptVsock:273: accept4 failed 110
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 21 21:31:18 DESKTOP-HKAOTBA kernel: device offline error, dev sde, sector 0 op 0x1:(WRITE) flags 0x800 phys_seg 0 prio class 2
+Jun 21 21:31:24 DESKTOP-HKAOTBA kernel: device offline error, dev sde, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+Jun 21 21:31:24 DESKTOP-HKAOTBA kernel: device offline error, dev sde, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+Jun 21 21:31:24 DESKTOP-HKAOTBA kernel: Buffer I/O error on dev sde, logical block 134184960, lost sync page write
+Jun 21 21:31:24 DESKTOP-HKAOTBA kernel: JBD2: I/O error when updating journal superblock for sde-8.
+Jun 21 21:39:00 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x80700 phys_seg 1 prio class 2
+Jun 21 21:39:00 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:00 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x80700 phys_seg 1 prio class 2
+Jun 21 21:39:00 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:00 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:32 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:33 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:33 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: blk_print_req_error: 2 callbacks suppressed
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:36 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:37 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1645192 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+Jun 21 21:39:37 DESKTOP-HKAOTBA kernel: I/O error, dev loop0, sector 1608840 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 2
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+Jun 22 21:33:38 DESKTOP-HKAOTBA kernel: RAS: Correctable Errors collector initialized.
+Jun 22 21:33:39 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 22 21:33:39 DESKTOP-HKAOTBA systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+Jun 22 21:34:22 DESKTOP-HKAOTBA unknown: WSL (135) ERROR: CheckConnection: getaddrinfo() failed: -5
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Initiating Security Scan...
+[Fri Jun 19 19:54:35 +04 2026] Guard-Agent: Scan Complete.
